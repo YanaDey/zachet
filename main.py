@@ -1,4 +1,4 @@
-line = input("Введите строку").lower()
+line = input("Введите строку:").lower()
 count = 0
 count_vowels = set("УЕЫАОЭЯИЮуеыаоэяию")
 for letter in line:
